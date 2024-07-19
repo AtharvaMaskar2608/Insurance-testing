@@ -1,0 +1,243 @@
+{
+    "Two wheeler": {
+        "upto 350 cc AND ELECTRIC": {
+            "Renewal": [
+                0.2,
+                0.2
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.2,
+                0.2,
+                "TATA",
+                "TOYOTA"
+            ]
+        },
+        "above 350cc": {
+            "Renewal": [
+                0.15,
+                0.15
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.15,
+                0.15,
+                "MARUTI",
+                "MAHINDRA"
+            ]
+        }
+    },
+    "Pvt Car": {
+        "Diesel upto 1500cc (all model will cover)and all cars above 2500cc except (Tata Toyota Maruti Mahindra Honda Hyundai Kia)": {
+            "Renewal": [
+                "New - 10%",
+                "Package -5%",
+                "SAOD renewal -7%, rollover - 5%",
+                "TP - 5%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "New - 10%",
+                "Package -5%",
+                "SAOD renewal -7%, rollover - 5%",
+                "TP - 5%",
+                "HONDA",
+                "HYUNDAI",
+                "KIA",
+                "TP - 5%"
+            ]
+        },
+        "All other Cars except above model": {
+            "Renewal": [
+                "New - 17.5%",
+                "Package -15%",
+                "SAOD renewal -12%, rollover - 8%",
+                "TP - 15%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "New - 17.5%",
+                "Package -15%",
+                "SAOD renewal -12%, rollover - 8%",
+                "TP - 15%",
+                "New - 17.5%",
+                "Package -15%",
+                "SAOD renewal -12%, rollover - 8%",
+                "TP - 15%"
+            ]
+        }
+    },
+    "PCV": {
+        "3 WHEELER (AUTO) AND ELECTRIC AUTO": {
+            "Renewal": [
+                "Package - 20%",
+                "TP - 25%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Package - 20%",
+                "TP - 25%",
+                "Package - 20%",
+                "TP - 25%"
+            ]
+        },
+        "School/Institutional staff buses": {
+            "Renewal": [
+                "35% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "35% in Net Premium",
+                "35% in Net Premium"
+            ]
+        },
+        "More than 30 Passengers": {
+            "Renewal": [
+                "4% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "4% in Net Premium",
+                "4% in Net Premium"
+            ]
+        },
+        "21 to 30 Passengers": {
+            "Renewal": [
+                "10% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "10% in Net Premium",
+                "10% in Net Premium"
+            ]
+        },
+        "MAXICAB (6 to 20 Passengers)": {
+            "Renewal": [
+                "Package - Renewal 15% in OD and 10% in TP",
+                "Package - Rollover  10% in Net Premium",
+                "TP - 15%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Package - Renewal 15% in OD and 10% in TP",
+                "Package - Rollover  10% in Net Premium",
+                "TP - 15%",
+                "Package - Renewal 15% in OD and 10% in TP",
+                "Package - Rollover  10% in Net Premium",
+                "TP - 15%"
+            ]
+        },
+        "TAXI UPTO 1000CC": {
+            "Renewal": [
+                "Package :OD - 10% TP -17.5%",
+                "TP - 15%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Package :OD - 10% TP -17.5%",
+                "TP - 15%",
+                "Package :OD - 10% TP -17.5%",
+                "TP - 15%"
+            ]
+        },
+        "TAXI (1000 to 1500CC)": {
+            "Renewal": [
+                "10% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "10% in Net Premium",
+                "10% in Net Premium"
+            ]
+        },
+        "TAXI ABOVE 1500CC  AND TAXI ELECTRIC": {
+            "Renewal": [
+                "15% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "15% in Net Premium",
+                "15% in Net Premium"
+            ]
+        }
+    },
+    "GCV": {
+        "Upto 2000 kg": {
+            "Renewal": [
+                "25% in Net Premium"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "25% in Net Premium",
+                "25% in Net Premium"
+            ]
+        },
+        "2001 to 10000 kg": {
+            "Renewal": [
+                "Package OD - 15% TP - 20%",
+                "TP 20%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Package OD - 15% TP - 20%",
+                "TP 20%",
+                "Package OD - 15% TP - 20%",
+                "TP 20%"
+            ]
+        },
+        "10001 to 12000 kg": {
+            "Renewal": [
+                "Package OD - 4% TP - 5%",
+                "TP 5%"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Package OD - 4% TP - 5%",
+                "TP 5%",
+                "Package OD - 4% TP - 5%",
+                "TP 5%"
+            ]
+        },
+        "12001 to 20000 kg": {
+            "Renewal": [
+                0.05
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.05,
+                0.05
+            ]
+        },
+        "20001 to 32000 kg": {
+            "Renewal": [
+                0.07
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.07,
+                0.07
+            ]
+        },
+        "32001 to 40000 kg": {
+            "Renewal": [
+                0.05
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.05,
+                0.05
+            ]
+        },
+        "above 40000 kg": {
+            "Renewal": [
+                0.04
+            ],
+            "Comm on Net Premium of 1st year": [
+                0.04,
+                0.04
+            ]
+        }
+    },
+    "Miscellaneous (Mobile cranes, Tractors, RMC, Excavators, Bulldozers(Earth Moving Equipments), Ambulance )": {
+        "Package": {
+            "Renewal": [
+                "15% in OD and 8% in TP"
+            ],
+            "Comm on Net Premium of 1st year": [
+                "15% in OD and 8% in TP",
+                "15% in OD and 8% in TP"
+            ]
+        },
+        "TP": {
+            "Renewal": [
+                0.08
+            ],
+            "Comm on Net Premium of 1st year": [
+                "Mobile cranes, Tractors, RMC, Excavators, Bulldozers(Earth Moving Equipments), Ambulance ",
+                "Mobile cranes, Tractors, RMC, Excavators, Bulldozers(Earth Moving Equipments), Ambulance "
+            ]
+        }
+    }
+}

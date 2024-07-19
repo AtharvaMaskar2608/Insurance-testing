@@ -1,0 +1,906 @@
+{
+    "UTTAR PRADESH": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "REST OF WEST BENGAL": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "REST OF MAHARASHTRA": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "REST OF ANDHRA PRADESH": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "BANGALORE": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.35
+        ]
+    },
+    "MUMBAI": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "BIHAR": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "DELHI&NCR": {
+        "0-50K_0.19999999999999996": [
+            0.14999999999999997
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.19999999999999996
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.24999999999999997
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.27499999999999997
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.3
+        ],
+        "Remarks_0.35": [
+            0.3
+        ],
+        "Maximum On scooter_0.4": [
+            0.3
+        ]
+    },
+    "GOA": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "PUNE": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "REST OF TAMIL NADU": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "REST OF KARNATAKA": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "RAJASTHAN": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "PUNJAB": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "JHARKHAND": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "REST OF TELANGANA": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "MADHYA PRADESH": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "HYDERABAD": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "CHENNAI": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "ORISSA": {
+        "0-50K_0.19999999999999996": [
+            0.15
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.15000000000000002
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.2
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.225
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.25
+        ],
+        "Remarks_0.35": [
+            0.25
+        ],
+        "Maximum On scooter_0.4": [
+            0.25
+        ]
+    },
+    "KOLKATA": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "ASSAM": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "JAMMU & KASHMIR": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "KERALA": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "UTTARAKHAND": {
+        "0-50K_0.19999999999999996": [
+            0.15
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.15
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.15000000000000002
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.17500000000000002
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.2
+        ],
+        "Remarks_0.35": [
+            0.2
+        ],
+        "Maximum On scooter_0.4": [
+            0.2
+        ]
+    },
+    "CHANDIGARH": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "PONDICHERRY": {
+        "0-50K_0.19999999999999996": [
+            0.15
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.15
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.15
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.15
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.15
+        ],
+        "Remarks_0.35": [
+            0.15
+        ],
+        "Maximum On scooter_0.4": [
+            0.15
+        ]
+    },
+    "CHATTISGARH": {
+        "0-50K_0.19999999999999996": [
+            "RTO Based"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO Based"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO Based"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO Based"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO Based"
+        ],
+        "Remarks_0.35": [
+            "Refer RTO Basis Payout Sheet"
+        ],
+        "Maximum On scooter_0.4": [
+            "Refer RTO Basis Payout Sheet"
+        ]
+    },
+    "ANDAMAN & NICOBAR ISLANDS": {
+        "0-50K_0.19999999999999996": [
+            0.19999999999999996
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            0.24999999999999994
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            0.29999999999999993
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            0.32499999999999996
+        ],
+        "More than 3 Lakhs_0.35": [
+            0.35
+        ],
+        "Remarks_0.35": [
+            0.35
+        ],
+        "Maximum On scooter_0.4": [
+            0.4
+        ]
+    },
+    "Terms and Conditions": {
+        "0-50K_0.19999999999999996": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "Remarks_0.35": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ],
+        "Maximum On scooter_0.4": [
+            "Terms and Conditions",
+            "* Scooter Payout will be +5% of Bike grid subject to achievement of respective slab. Maximum payable on scooter will be as per coloumn \"H\""
+        ]
+    },
+    "1": {
+        "0-50K_0.19999999999999996": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "Remarks_0.35": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "Maximum On scooter_0.4": [
+            "Payouts will be based on RTO state mapping as per attached file.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ]
+    },
+    "2": {
+        "0-50K_0.19999999999999996": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "Remarks_0.35": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ],
+        "Maximum On scooter_0.4": [
+            "Not applicable to New Vehicles of Bajaj, Vespa and Royal enfield Make- Above 60% CD - MISP rate; For Below 60% CD -eligible for 60% on OD"
+        ]
+    },
+    "3": {
+        "0-50K_0.19999999999999996": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "More than 3 Lakhs_0.35": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "Remarks_0.35": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ],
+        "Maximum On scooter_0.4": [
+            "For Renewal and Rollover business of Make Bajaj/Vespa and RE : Rates are 5% lower as compared to NET rate grid of state and RTO based grid for Bike and scooter as well. For Above 60% CD= MISP rate."
+        ]
+    },
+    "4": {
+        "0-50K_0.19999999999999996": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "Remarks_0.35": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ],
+        "Maximum On scooter_0.4": [
+            "1871 (SAOD) is at MISP i.e 22.5%"
+        ]
+    },
+    "5": {
+        "0-50K_0.19999999999999996": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "Remarks_0.35": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ],
+        "Maximum On scooter_0.4": [
+            "Volume indicated above is monthly Volume of 1st Year Premium for Motor 2W of All States only and applicability as per Grid rate of respective state."
+        ]
+    },
+    "6": {
+        "0-50K_0.19999999999999996": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "Remarks_0.35": [
+            "Payout rate is applicable on NET of 1st year only"
+        ],
+        "Maximum On scooter_0.4": [
+            "Payout rate is applicable on NET of 1st year only"
+        ]
+    },
+    "7": {
+        "0-50K_0.19999999999999996": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "More than 3 Lakhs_0.35": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "Remarks_0.35": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ],
+        "Maximum On scooter_0.4": [
+            "For Long Term Policies, 2nd year onwards payouts are only as per IRDA guidelines; applicable only for IRDA codes."
+        ]
+    },
+    "8": {
+        "0-50K_0.19999999999999996": [
+            "Declined states are as per IRDA rates"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "Declined states are as per IRDA rates"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "Declined states are as per IRDA rates"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "Declined states are as per IRDA rates"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "Declined states are as per IRDA rates"
+        ],
+        "Remarks_0.35": [
+            "Declined states are as per IRDA rates"
+        ],
+        "Maximum On scooter_0.4": [
+            "Declined states are as per IRDA rates"
+        ]
+    },
+    "9": {
+        "0-50K_0.19999999999999996": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "50K -1 Lakhs_0.24999999999999994": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "1 Lakhs- 2 Lakhs_0.29999999999999993": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "2lakhs to 3 Lakhs_0.32499999999999996": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "More than 3 Lakhs_0.35": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "Remarks_0.35": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ],
+        "Maximum On scooter_0.4": [
+            "RTO wise State Mapping Flie is attached.Refer Sheet Std-2W RTO Bases Payouts Files"
+        ]
+    }
+}

@@ -1,0 +1,1610 @@
+{
+    "PC\n[PACK]\n": {
+        "UPTO 1000 CC": {
+            "UPTO 1000 CC": {
+                "AP/TS_PACK": [
+                    0.2
+                ],
+                "TN_ACT": [
+                    0.2
+                ],
+                "TN_PACK": [
+                    0.15
+                ],
+                "KA_ACT": [
+                    0.15
+                ],
+                "KA_PACK": [
+                    0.2
+                ],
+                "MH/GA_ACT": [
+                    0.2
+                ],
+                "MH/GA_PACK": [
+                    0.2
+                ],
+                "GJ_ACT": [
+                    0.2
+                ],
+                "GJ_PACK": [
+                    0.2
+                ],
+                "BH/JH_ACT": [
+                    0.2
+                ],
+                "BH/JH_PACK": [
+                    0.2
+                ],
+                "OD_ACT": [
+                    0.2
+                ],
+                "OD_PACK": [
+                    0.2
+                ],
+                "WB_ACT": [
+                    0.2
+                ],
+                "WB_PACK": [
+                    0.2
+                ],
+                "CG_ACT": [
+                    0.2
+                ],
+                "CG_PACK": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.2
+                ],
+                "DL_ACT": [
+                    0.2
+                ],
+                "DL_PACK": [
+                    0.2
+                ],
+                "PB_ACT": [
+                    0.2
+                ],
+                "PB_PACK": [
+                    0.2
+                ],
+                "HP_ACT": [
+                    0.2
+                ],
+                "HP_PACK": [
+                    0.2
+                ],
+                "JK_ACT": [
+                    0.2
+                ],
+                "JK_PACK": [
+                    0.2
+                ],
+                "UP- East_ACT": [
+                    0.2
+                ],
+                "UP- East_PACK": [
+                    0.2
+                ],
+                "UP_ACT": [
+                    0.2
+                ],
+                "UP_PACK": [
+                    0.15
+                ],
+                "UK_ACT": [
+                    0.15
+                ],
+                "UK_PACK": [
+                    0.2
+                ],
+                "AN_ACT": [
+                    0.2
+                ],
+                "AN_PACK": [
+                    0.15
+                ]
+            }
+        },
+        "1000 TO 1500 CC": {
+            "0.2": {
+                "AP/TS_PACK": [
+                    0.24
+                ],
+                "TN_ACT": [
+                    0.24
+                ],
+                "TN_PACK": [
+                    0.24
+                ],
+                "KA_ACT": [
+                    0.24
+                ],
+                "KA_PACK": [
+                    0.24
+                ],
+                "MH/GA_ACT": [
+                    0.2
+                ],
+                "MH/GA_PACK": [
+                    0.265
+                ],
+                "GJ_ACT": [
+                    0.25
+                ],
+                "GJ_PACK": [
+                    0.265
+                ],
+                "BH/JH_ACT": [
+                    0.25
+                ],
+                "BH/JH_PACK": [
+                    0.24
+                ],
+                "OD_ACT": [
+                    0.25
+                ],
+                "OD_PACK": [
+                    0.24
+                ],
+                "WB_ACT": [
+                    0.25
+                ],
+                "WB_PACK": [
+                    0.265
+                ],
+                "CG_ACT": [
+                    0.115
+                ],
+                "CG_PACK": [
+                    0.24
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.25
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.24
+                ],
+                "DL_ACT": [
+                    0.115
+                ],
+                "DL_PACK": [
+                    0.24
+                ],
+                "PB_ACT": [
+                    0.24
+                ],
+                "PB_PACK": [
+                    0.24
+                ],
+                "HP_ACT": [
+                    0.24
+                ],
+                "HP_PACK": [
+                    0.24
+                ],
+                "JK_ACT": [
+                    0.24
+                ],
+                "JK_PACK": [
+                    0.24
+                ],
+                "UP- East_ACT": [
+                    0.24
+                ],
+                "UP- East_PACK": [
+                    0.24
+                ],
+                "UP_ACT": [
+                    0.24
+                ],
+                "UP_PACK": [
+                    0.2
+                ],
+                "UK_ACT": [
+                    0.2
+                ],
+                "UK_PACK": [
+                    0.24
+                ],
+                "AN_ACT": [
+                    0.25
+                ],
+                "AN_PACK": [
+                    0.24
+                ]
+            }
+        },
+        "ABOVE 1500 CC": {
+            "0.2": {
+                "AP/TS_PACK": [
+                    0.35
+                ],
+                "TN_ACT": [
+                    0.35
+                ],
+                "TN_PACK": [
+                    0.35
+                ],
+                "KA_ACT": [
+                    0.06500000000000002
+                ],
+                "KA_PACK": [
+                    0.35
+                ],
+                "MH/GA_ACT": [
+                    0.2
+                ],
+                "MH/GA_PACK": [
+                    0.35
+                ],
+                "GJ_ACT": [
+                    0.2
+                ],
+                "GJ_PACK": [
+                    0.35
+                ],
+                "BH/JH_ACT": [
+                    0.2
+                ],
+                "BH/JH_PACK": [
+                    0.35
+                ],
+                "OD_ACT": [
+                    0.2
+                ],
+                "OD_PACK": [
+                    0.35
+                ],
+                "WB_ACT": [
+                    0.2
+                ],
+                "WB_PACK": [
+                    0.35
+                ],
+                "CG_ACT": [
+                    0.115
+                ],
+                "CG_PACK": [
+                    0.35
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.2
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.35
+                ],
+                "DL_ACT": [
+                    0.115
+                ],
+                "DL_PACK": [
+                    0.35
+                ],
+                "PB_ACT": [
+                    0.35
+                ],
+                "PB_PACK": [
+                    0.35
+                ],
+                "HP_ACT": [
+                    0.35
+                ],
+                "HP_PACK": [
+                    0.35
+                ],
+                "JK_ACT": [
+                    0.35
+                ],
+                "JK_PACK": [
+                    0.35
+                ],
+                "UP- East_ACT": [
+                    0.35
+                ],
+                "UP- East_PACK": [
+                    0.3
+                ],
+                "UP_ACT": [
+                    0.3
+                ],
+                "UP_PACK": [
+                    0.3
+                ],
+                "UK_ACT": [
+                    0.3
+                ],
+                "UK_PACK": [
+                    0.3
+                ],
+                "AN_ACT": [
+                    0.25
+                ],
+                "AN_PACK": [
+                    0.3
+                ]
+            }
+        }
+    },
+    "PC\n[SOD]\n": {
+        "UPTO 1000 CC[P]": {
+            "UPTO 1000 CC[P]": {
+                "AP/TS_PACK": [
+                    0.1
+                ],
+                "TN_ACT": [
+                    0.1
+                ],
+                "TN_PACK": [
+                    0.1
+                ],
+                "KA_ACT": [
+                    0.1
+                ],
+                "KA_PACK": [
+                    0.1
+                ],
+                "MH/GA_ACT": [
+                    0.1
+                ],
+                "MH/GA_PACK": [
+                    0.1
+                ],
+                "GJ_ACT": [
+                    0.1
+                ],
+                "GJ_PACK": [
+                    0.1
+                ],
+                "BH/JH_ACT": [
+                    0.1
+                ],
+                "BH/JH_PACK": [
+                    0.1
+                ],
+                "OD_ACT": [
+                    0.1
+                ],
+                "OD_PACK": [
+                    0.1
+                ],
+                "WB_ACT": [
+                    0.1
+                ],
+                "WB_PACK": [
+                    0.1
+                ],
+                "CG_ACT": [
+                    0.1
+                ],
+                "CG_PACK": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.1
+                ],
+                "DL_ACT": [
+                    0.1
+                ],
+                "DL_PACK": [
+                    0.1
+                ],
+                "PB_ACT": [
+                    0.1
+                ],
+                "PB_PACK": [
+                    0.1
+                ],
+                "HP_ACT": [
+                    0.1
+                ],
+                "HP_PACK": [
+                    0.1
+                ],
+                "JK_ACT": [
+                    0.1
+                ],
+                "JK_PACK": [
+                    0.1
+                ],
+                "UP- East_ACT": [
+                    0.1
+                ],
+                "UP- East_PACK": [
+                    0.15000000000000002
+                ],
+                "UP_ACT": [
+                    0.15000000000000002
+                ],
+                "UP_PACK": [
+                    0.09999999999999999
+                ],
+                "UK_ACT": [
+                    0.09999999999999999
+                ],
+                "UK_PACK": [
+                    0.15000000000000002
+                ],
+                "AN_ACT": [
+                    0.15000000000000002
+                ],
+                "AN_PACK": [
+                    0.1
+                ]
+            }
+        },
+        "1000 TO 1500 CC[P]": {
+            "1000 TO 1500 CC[P]": {
+                "AP/TS_PACK": [
+                    0.15
+                ],
+                "TN_ACT": [
+                    0.15
+                ],
+                "TN_PACK": [
+                    0.15
+                ],
+                "KA_ACT": [
+                    0.15
+                ],
+                "KA_PACK": [
+                    0.15
+                ],
+                "MH/GA_ACT": [
+                    0.15
+                ],
+                "MH/GA_PACK": [
+                    0.15
+                ],
+                "GJ_ACT": [
+                    0.15
+                ],
+                "GJ_PACK": [
+                    0.15
+                ],
+                "BH/JH_ACT": [
+                    0.15
+                ],
+                "BH/JH_PACK": [
+                    0.15
+                ],
+                "OD_ACT": [
+                    0.15
+                ],
+                "OD_PACK": [
+                    0.15
+                ],
+                "WB_ACT": [
+                    0.15
+                ],
+                "WB_PACK": [
+                    0.15
+                ],
+                "CG_ACT": [
+                    0.15
+                ],
+                "CG_PACK": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.15
+                ],
+                "DL_ACT": [
+                    0.15
+                ],
+                "DL_PACK": [
+                    0.15
+                ],
+                "PB_ACT": [
+                    0.15
+                ],
+                "PB_PACK": [
+                    0.15
+                ],
+                "HP_ACT": [
+                    0.15
+                ],
+                "HP_PACK": [
+                    0.15
+                ],
+                "JK_ACT": [
+                    0.15
+                ],
+                "JK_PACK": [
+                    0.15
+                ],
+                "UP- East_ACT": [
+                    0.15
+                ],
+                "UP- East_PACK": [
+                    0.2
+                ],
+                "UP_ACT": [
+                    0.2
+                ],
+                "UP_PACK": [
+                    0.15000000000000002
+                ],
+                "UK_ACT": [
+                    0.15000000000000002
+                ],
+                "UK_PACK": [
+                    0.2
+                ],
+                "AN_ACT": [
+                    0.2
+                ],
+                "AN_PACK": [
+                    0.15
+                ]
+            }
+        },
+        "ABOVE 1500 CC[P]": {
+            "ABOVE 1500 CC[P]": {
+                "AP/TS_PACK": [
+                    0.2
+                ],
+                "TN_ACT": [
+                    0.2
+                ],
+                "TN_PACK": [
+                    0.2
+                ],
+                "KA_ACT": [
+                    0.2
+                ],
+                "KA_PACK": [
+                    0.2
+                ],
+                "MH/GA_ACT": [
+                    0.2
+                ],
+                "MH/GA_PACK": [
+                    0.2
+                ],
+                "GJ_ACT": [
+                    0.2
+                ],
+                "GJ_PACK": [
+                    0.2
+                ],
+                "BH/JH_ACT": [
+                    0.2
+                ],
+                "BH/JH_PACK": [
+                    0.2
+                ],
+                "OD_ACT": [
+                    0.2
+                ],
+                "OD_PACK": [
+                    0.2
+                ],
+                "WB_ACT": [
+                    0.2
+                ],
+                "WB_PACK": [
+                    0.2
+                ],
+                "CG_ACT": [
+                    0.2
+                ],
+                "CG_PACK": [
+                    0.2
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.2
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.2
+                ],
+                "DL_ACT": [
+                    0.2
+                ],
+                "DL_PACK": [
+                    0.2
+                ],
+                "PB_ACT": [
+                    0.2
+                ],
+                "PB_PACK": [
+                    0.2
+                ],
+                "HP_ACT": [
+                    0.2
+                ],
+                "HP_PACK": [
+                    0.2
+                ],
+                "JK_ACT": [
+                    0.2
+                ],
+                "JK_PACK": [
+                    0.2
+                ],
+                "UP- East_ACT": [
+                    0.2
+                ],
+                "UP- East_PACK": [
+                    0.25
+                ],
+                "UP_ACT": [
+                    0.25
+                ],
+                "UP_PACK": [
+                    0.25
+                ],
+                "UK_ACT": [
+                    0.25
+                ],
+                "UK_PACK": [
+                    0.25
+                ],
+                "AN_ACT": [
+                    0.25
+                ],
+                "AN_PACK": [
+                    0.2
+                ]
+            }
+        },
+        "UPTO 1000 CC[D]": {
+            "UPTO 1000 CC[D]": {
+                "AP/TS_PACK": [
+                    0.1
+                ],
+                "TN_ACT": [
+                    0.1
+                ],
+                "TN_PACK": [
+                    0.1
+                ],
+                "KA_ACT": [
+                    0.1
+                ],
+                "KA_PACK": [
+                    0.1
+                ],
+                "MH/GA_ACT": [
+                    0.1
+                ],
+                "MH/GA_PACK": [
+                    0.1
+                ],
+                "GJ_ACT": [
+                    0.1
+                ],
+                "GJ_PACK": [
+                    0.1
+                ],
+                "BH/JH_ACT": [
+                    0.1
+                ],
+                "BH/JH_PACK": [
+                    0.1
+                ],
+                "OD_ACT": [
+                    0.1
+                ],
+                "OD_PACK": [
+                    0.1
+                ],
+                "WB_ACT": [
+                    0.1
+                ],
+                "WB_PACK": [
+                    0.1
+                ],
+                "CG_ACT": [
+                    0.1
+                ],
+                "CG_PACK": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.1
+                ],
+                "DL_ACT": [
+                    0.1
+                ],
+                "DL_PACK": [
+                    0.1
+                ],
+                "PB_ACT": [
+                    0.1
+                ],
+                "PB_PACK": [
+                    0.1
+                ],
+                "HP_ACT": [
+                    0.1
+                ],
+                "HP_PACK": [
+                    0.1
+                ],
+                "JK_ACT": [
+                    0.1
+                ],
+                "JK_PACK": [
+                    0.1
+                ],
+                "UP- East_ACT": [
+                    0.1
+                ],
+                "UP- East_PACK": [
+                    0.1
+                ],
+                "UP_ACT": [
+                    0.1
+                ],
+                "UP_PACK": [
+                    0.1
+                ],
+                "UK_ACT": [
+                    0.1
+                ],
+                "UK_PACK": [
+                    0.1
+                ],
+                "AN_ACT": [
+                    0.1
+                ],
+                "AN_PACK": [
+                    0.1
+                ]
+            }
+        },
+        "1000 TO 1500 CC[D]": {
+            "1000 TO 1500 CC[D]": {
+                "AP/TS_PACK": [
+                    0.1
+                ],
+                "TN_ACT": [
+                    0.1
+                ],
+                "TN_PACK": [
+                    0.1
+                ],
+                "KA_ACT": [
+                    0.1
+                ],
+                "KA_PACK": [
+                    0.1
+                ],
+                "MH/GA_ACT": [
+                    0.1
+                ],
+                "MH/GA_PACK": [
+                    0.1
+                ],
+                "GJ_ACT": [
+                    0.1
+                ],
+                "GJ_PACK": [
+                    0.1
+                ],
+                "BH/JH_ACT": [
+                    0.1
+                ],
+                "BH/JH_PACK": [
+                    0.1
+                ],
+                "OD_ACT": [
+                    0.1
+                ],
+                "OD_PACK": [
+                    0.1
+                ],
+                "WB_ACT": [
+                    0.1
+                ],
+                "WB_PACK": [
+                    0.1
+                ],
+                "CG_ACT": [
+                    0.1
+                ],
+                "CG_PACK": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.1
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.1
+                ],
+                "DL_ACT": [
+                    0.1
+                ],
+                "DL_PACK": [
+                    0.1
+                ],
+                "PB_ACT": [
+                    0.1
+                ],
+                "PB_PACK": [
+                    0.1
+                ],
+                "HP_ACT": [
+                    0.1
+                ],
+                "HP_PACK": [
+                    0.1
+                ],
+                "JK_ACT": [
+                    0.1
+                ],
+                "JK_PACK": [
+                    0.1
+                ],
+                "UP- East_ACT": [
+                    0.1
+                ],
+                "UP- East_PACK": [
+                    0.15
+                ],
+                "UP_ACT": [
+                    0.15
+                ],
+                "UP_PACK": [
+                    0.1
+                ],
+                "UK_ACT": [
+                    0.1
+                ],
+                "UK_PACK": [
+                    0.15
+                ],
+                "AN_ACT": [
+                    0.15
+                ],
+                "AN_PACK": [
+                    0.1
+                ]
+            }
+        },
+        "ABOVE 1500 CC[D]": {
+            "ABOVE 1500 CC[D]": {
+                "AP/TS_PACK": [
+                    0.15
+                ],
+                "TN_ACT": [
+                    0.15
+                ],
+                "TN_PACK": [
+                    0.15
+                ],
+                "KA_ACT": [
+                    0.15
+                ],
+                "KA_PACK": [
+                    0.15
+                ],
+                "MH/GA_ACT": [
+                    0.15
+                ],
+                "MH/GA_PACK": [
+                    0.15
+                ],
+                "GJ_ACT": [
+                    0.15
+                ],
+                "GJ_PACK": [
+                    0.15
+                ],
+                "BH/JH_ACT": [
+                    0.15
+                ],
+                "BH/JH_PACK": [
+                    0.15
+                ],
+                "OD_ACT": [
+                    0.15
+                ],
+                "OD_PACK": [
+                    0.15
+                ],
+                "WB_ACT": [
+                    0.15
+                ],
+                "WB_PACK": [
+                    0.15
+                ],
+                "CG_ACT": [
+                    0.15
+                ],
+                "CG_PACK": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    0.15
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    0.15
+                ],
+                "DL_ACT": [
+                    0.15
+                ],
+                "DL_PACK": [
+                    0.15
+                ],
+                "PB_ACT": [
+                    0.15
+                ],
+                "PB_PACK": [
+                    0.15
+                ],
+                "HP_ACT": [
+                    0.15
+                ],
+                "HP_PACK": [
+                    0.15
+                ],
+                "JK_ACT": [
+                    0.15
+                ],
+                "JK_PACK": [
+                    0.15
+                ],
+                "UP- East_ACT": [
+                    0.15
+                ],
+                "UP- East_PACK": [
+                    0.2
+                ],
+                "UP_ACT": [
+                    0.2
+                ],
+                "UP_PACK": [
+                    0.2
+                ],
+                "UK_ACT": [
+                    0.2
+                ],
+                "UK_PACK": [
+                    0.2
+                ],
+                "AN_ACT": [
+                    0.2
+                ],
+                "AN_PACK": [
+                    0.15
+                ]
+            }
+        }
+    },
+    "** Please note that the above pay-out grid ": {
+        "** Please note that the above pay-out grid ": {
+            "** Please note that the above pay-out grid ": {
+                "AP/TS_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "TN_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "TN_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "KA_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "KA_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "MH/GA_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "MH/GA_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "GJ_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "GJ_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "BH/JH_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "BH/JH_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "OD_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "OD_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "WB_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "WB_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "CG_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "CG_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "DL_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "DL_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "PB_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "PB_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "HP_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "HP_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "JK_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "JK_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UP- East_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UP- East_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UP_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UP_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UK_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "UK_PACK": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "AN_ACT": [
+                    "** Please note that the above pay-out grid "
+                ],
+                "AN_PACK": [
+                    "** Please note that the above pay-out grid "
+                ]
+            }
+        }
+    },
+    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium": {
+        "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium": {
+            "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium": {
+                "AP/TS_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "TN_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "TN_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "KA_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "KA_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "MH/GA_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "MH/GA_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "GJ_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "GJ_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "BH/JH_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "BH/JH_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "OD_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "OD_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "WB_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "WB_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "CG_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "CG_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "DL_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "DL_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "PB_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "PB_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "HP_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "HP_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "JK_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "JK_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UP- East_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UP- East_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UP_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UP_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UK_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "UK_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "AN_ACT": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ],
+                "AN_PACK": [
+                    "-  For Private Car Package policy pay-out  is on OD Cover Premium and Private Car Liability policy  Pay-out is on TP/PA Premium"
+                ]
+            }
+        }
+    },
+    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily": {
+        "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily": {
+            "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily": {
+                "AP/TS_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "TN_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "TN_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "KA_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "KA_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "MH/GA_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "MH/GA_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "GJ_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "GJ_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "BH/JH_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "BH/JH_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "OD_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "OD_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "WB_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "WB_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "CG_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "CG_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "DL_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "DL_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "PB_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "PB_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "HP_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "HP_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "JK_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "JK_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UP- East_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UP- East_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UP_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UP_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UK_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "UK_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "AN_ACT": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ],
+                "AN_PACK": [
+                    "-  For Private Car Package & Liability policy CPA should be collected for individual Name Mandatorily"
+                ]
+            }
+        },
+        "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted": {
+            "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted": {
+                "AP/TS_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "TN_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "TN_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "KA_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "KA_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "MH/GA_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "MH/GA_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "GJ_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "GJ_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "BH/JH_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "BH/JH_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "OD_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "OD_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "WB_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "WB_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "CG_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "CG_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "DL_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "DL_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "PB_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "PB_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "HP_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "HP_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "JK_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "JK_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UP- East_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UP- East_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UP_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UP_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UK_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "UK_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "AN_ACT": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ],
+                "AN_PACK": [
+                    "if CPA is not collected for individual name then 2.5% of OD Pay-out will be deducted"
+                ]
+            }
+        }
+    },
+    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid": {
+        "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid": {
+            "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid": {
+                "AP/TS_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid"
+                ],
+                "TN_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid"
+                ],
+                "TN_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid"
+                ],
+                "KA_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid"
+                ],
+                "KA_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid"
+                ],
+                "MH/GA_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "MH/GA_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "GJ_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "GJ_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "BH/JH_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "BH/JH_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "OD_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "OD_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.01
+                ],
+                "WB_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "WB_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "CG_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "CG_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "AS/ML/TR/AR/NL_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "AS/ML/TR/AR/NL_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "DL_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "DL_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "PB_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "PB_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "HP_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "HP_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "JK_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "JK_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UP- East_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UP- East_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UP_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UP_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UK_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "UK_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "AN_ACT": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ],
+                "AN_PACK": [
+                    "-  For Private Car Electric Vehicle or LPG/CNG pay-out grid is same as Private Car Petrol grid",
+                    0.01,
+                    0.025
+                ]
+            }
+        }
+    }
+}

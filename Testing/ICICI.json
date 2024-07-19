@@ -1,0 +1,2888 @@
+{
+    "Geo": {
+        "South": {
+            "ANDHRA PRADESH": {
+                "Rest of Andhra Pradesh": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "25% Maruti and Hyundai, Rest 15%"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Karnataka": {
+                "Rest of Karnataka": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Kerala": {
+                "Kerala": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Decline"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Tamilnadu": {
+                "Rest of Tamilnadu": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Telangana": {
+                "Telangana": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        },
+        "East": {
+            "Arunachal Pradesh": {
+                "Arunachal Pradesh": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "25% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Assam": {
+                "Assam": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Decline"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Bihar": {
+                "Bihar": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.275
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "45% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Jharkhand": {
+                "Jharkhand": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "35% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.2
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Manipur": {
+                "Manipur": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Meghalaya": {
+                "Meghalaya": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Mizoram": {
+                "Mizoram": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Nagaland": {
+                "Nagaland": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Odisha": {
+                "Odisha": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "10% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Sikkim": {
+                "Sikkim": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Tripura": {
+                "Tripura": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "West Bengal": {
+                "West Bengal": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "10% HMC Only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.2
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        },
+        "West": {
+            "Chhattisgarh": {
+                "Chhattisgarh": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Goa": {
+                "Goa": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "20% > 150 CC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Gujarat + DAMAN & DIU": {
+                "Gujarat (Rest of Gujarat) + DAMAN & DIU": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "30% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "MADHYA PRADESH": {
+                "Madhya Pradesh - Rest of GEO": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Decline"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "20% > 150 CC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Maharashtra": {
+                "Maharashtra-Rest of GEO": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "25% Maruti, Hyundai, Honda and Tata, rest 15%"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "20% > 150 CC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        },
+        "North": {
+            "Haryana": {
+                "Haryana": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.1
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Decline"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.1
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "5% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.25
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Himachal Pradesh": {
+                "Himachal Pradesh": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "40% HMC and 20% HMSI only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "J&K": {
+                "J&K": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "25% Maruti, Hyundai and Honda, Rest 19.5%"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMC and HMSI only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Punjab": {
+                "Punjab": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.38
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "40% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "20% > 150 CC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.2
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Rajasthan": {
+                "Rest of Rajasthan": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.05
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.25
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "UP": {
+                "UP East+West": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.1
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "25% HMC, 15% HMSI only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.2
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Uttrakhand": {
+                "Uttrakhand": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.195
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.28
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.28
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "40% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        }
+    },
+    "Vertical": {
+        "South": {
+            "ANDHRA PRADESH": {
+                "Vijaywada": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "25% HMC, 40% HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Visakhapatnam ": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "30% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Karnataka": {
+                "Bangalore": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Tamilnadu": {
+                "Chennai": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.275
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.2
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "10% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Coimbatore": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Telangana": {
+                "Hyderabad": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.275
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "35% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        },
+        "North": {
+            "Chandigarh": {
+                "Chandigarh": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.38
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "DL-NCR": {
+                "DL-NCR": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "25% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.25
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Punjab": {
+                "Ludhiana": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.38
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "30% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Rajasthan": {
+                "Jaipur": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "20% HMSI (Honda MotorCycle)"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "UP East": {
+                "Kanpur": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.275
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "40% HMC and HMSI <150 CC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Lucknow": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.5
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "40% HMC and HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.25
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        },
+        "West": {
+            "Gujarat": {
+                "Ahmedabad": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Baroda": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "40% on HMSI, 30% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "40% on HMSI, 10% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Rajkot": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Surat": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "35% HMC and 20% HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "MADHYA PRADESH": {
+                "Indore": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.15
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.195
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.45
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            },
+            "Maharashtra": {
+                "Mumbai": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.15
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "30% HMSI (Honda MotorCycle)"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Nagpur": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.25
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.05
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "35% HMC and 25% HMSI"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "40% HMC only"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                },
+                "Pune": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        0.3
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        0.225
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        0.225
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        0.15
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        0.25
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        0.35
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        0.35
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        0.55
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        0.25
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        0.4
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        0.3
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        0.3
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        0.2
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        0.3
+                    ]
+                }
+            }
+        }
+    },
+    "Sr No.": {
+        "Segment": {
+            "Remarks": {
+                "Remarks": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "Remarks"
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Remarks"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "Remarks"
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "Remarks"
+                    ]
+                }
+            }
+        }
+    },
+    "1": {
+        "Private car- Comp & SAOD": {
+            "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) ": {
+                "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) ": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "Private car Comp & SAOD: No points on Negative Models (NCB & Non NCB) like - Bolero,Tavera,Qualis,Indica,Indigo, Omni, Eeco, , TATA Sumo, Hyundai Getz, GM, Chevrolet and absolete Models) "
+                    ]
+                }
+            }
+        }
+    },
+    "2": {
+        "Private Car - Used Car": {
+            "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents": {
+                "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "Subject to transaction as USED car only in NYSA, subject to upload of requisite documents"
+                    ]
+                }
+            }
+        }
+    },
+    "3": {
+        "2W": {
+            "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes": {
+                "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "NO Points on Bajaj, Suzuki, TVS & Yamaha Bikes"
+                    ]
+                }
+            }
+        }
+    },
+    "4": {
+        "2W (1+5)": {
+            "TW Grid New 1+5, 2.5% lower without CPA": {
+                "TW Grid New 1+5, 2.5% lower without CPA": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "TW Grid New 1+5, 2.5% lower without CPA"
+                    ]
+                }
+            }
+        }
+    },
+    "5": {
+        "All ": {
+            "Any segment not mentioned in the grid/declined will be at 0% commission. ": {
+                "Any segment not mentioned in the grid/declined will be at 0% commission. ": {
+                    "RTO Location_Pvt Car New 1+3 ": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt Car Petrol & CNG- 1+1 (NCB Cases)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt Car Diesel & EV - 1+1 (NCB Cases)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_SAOD-NCB": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt Car-\n0 NCB ( NON NCB)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt Car (Used Car**)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt car AOTP- Petrol": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "RTO Location_Pvt car AOTP- Diesel": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Scooters- Comp\n (1+1) (2+2) (3+3)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Scooters - (TP only)\n(0+1) (0+2) (0+3)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Scooters- SAOD": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Bikes Comp (1+1) (2+2) (3+3) (Excluding Bajaj, Yamaha, TVS and Suzuki)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Bikes- AOTP \n(All Manufacturers) \n(0+1, 0+2, 0+3) ": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW Bikes -SAOD \n(All Manufacturers)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_Royal Enfield- (SAOD/Comp/ AOTP) ": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ],
+                    "Two Wheeler_TW - EV (SAOD/Comp/AOTP)": [
+                        "Any segment not mentioned in the grid/declined will be at 0% commission. "
+                    ]
+                }
+            }
+        }
+    }
+}

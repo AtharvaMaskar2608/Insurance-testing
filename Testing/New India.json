@@ -1,0 +1,90 @@
+{
+    "Private Car": {
+        "OD Commission (including Rewards)": [
+            "20"
+        ],
+        "TP Commission (including Rewards)": [
+            "15"
+        ]
+    },
+    "Private Car Standalone OD": {
+        "OD Commission (including Rewards)": [
+            "20"
+        ],
+        "TP Commission (including Rewards)": [
+            "20"
+        ]
+    },
+    "Private Car Standalone TP": {
+        "OD Commission (including Rewards)": [
+            "Private Car Standalone TP"
+        ],
+        "TP Commission (including Rewards)": [
+            "15"
+        ]
+    },
+    "Two Wheeler": {
+        "OD Commission (including Rewards)": [
+            "25"
+        ],
+        "TP Commission (including Rewards)": [
+            "10"
+        ]
+    },
+    "Two Wheeler Standalone OD": {
+        "OD Commission (including Rewards)": [
+            "20"
+        ],
+        "TP Commission (including Rewards)": [
+            "20"
+        ]
+    },
+    "Two Wheeler Standalone TP": {
+        "OD Commission (including Rewards)": [
+            "Two Wheeler Standalone TP"
+        ],
+        "TP Commission (including Rewards)": [
+            "10"
+        ]
+    },
+    "CPA for Pvt Car / TW": {
+        "OD Commission (including Rewards)": [
+            "CPA for Pvt Car / TW"
+        ],
+        "TP Commission (including Rewards)": [
+            "3.25"
+        ]
+    },
+    "Motor Insurance :(Other than Private Car & Two Wheeler)": {
+        "OD Commission (including Rewards)": [
+            "Motor Insurance :(Other than Private Car & Two Wheeler)"
+        ],
+        "TP Commission (including Rewards)": [
+            "Motor Insurance :(Other than Private Car & Two Wheeler)"
+        ]
+    },
+    "YEAR": {
+        "OD Commission (including Rewards)": [
+            "Motor (Comprehensive)"
+        ],
+        "TP Commission (including Rewards)": [
+            "Motor (Stand Alone TP)"
+        ]
+    },
+    "Certificate of registration - 1 to 3 year": {
+        "OD Commission (including Rewards)": [
+            "15% (OD portion) + Nil -TP portion)"
+        ],
+        "TP Commission (including Rewards)": [
+            "2.5"
+        ]
+    },
+    "Certificate of registration - 4 year onwards": {
+        "OD Commission (including Rewards)": [
+            "15% (OD portion) + 2.5% -TP portion)"
+        ],
+        "TP Commission (including Rewards)": [
+            "2.5"
+        ]
+    }
+}
